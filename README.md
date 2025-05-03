@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thi4guinho&bg_color=0d1117&color=ffffff&line=BF40BF&point=BF40BF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BF40BF?style=for-the-badge&logo=instagram&logoColor=white&border-radius=15"</a>
+  <a href="https://www.instagram.com/__thiago.xwc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BF40BF?style=for-the-badge&logo=instagram&logoColor=white&border-radius=15"</a>
 </div> 
 
 ### Main skills:
