@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">  
-  <a href="https://www.instagram.com/__thiago.xwc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BF40BF?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-BF40BF?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+  <a href="https://www.instagram.com/__thiago.xwc/"><img src="https://img.shields.io/badge/-Instagram-BF40BF?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/5511934011936"><img src="https://img.shields.io/badge/WhatsApp-BF40BF?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
 
 ### Principais habilidades:
