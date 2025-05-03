@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Thiago+Alves;I'm+18+years+old;I+study+Web+Design+at+Fiap;Be+Welcome!)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thi4guinho&show_icons=true&count_private=false&hide_border=true&title_color=ffffff&icon_color=BF40BF&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Alves github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thi4guinho&layout=compact&hide_border=true&count_private=false&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thi4guinho&show_icons=true&hide_border=true&title_color=ffffff&icon_color=BF40BF&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Alves github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thi4guinho&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thi4guinho&bg_color=0d1117&color=ffffff&line=BF40BF&point=BF40BF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
