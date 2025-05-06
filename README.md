@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Thiago+Alves;Tenho+18+anos;Faço+faculdade+de+Web+Design+na+Fiap;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thi4guinho&show_icons=true&locale=pt-br&hide_border=true&count_private=false&title_color=808080&icon_color=BF40BF&text_color=808080&bg_color=0d1117" alt="Thiago Alves github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thi4guinho&layout=compact&hide_border=true&locale=pt-br&count_private=false&title_color=808080&text_color=808080&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thi4guinho&show_icons=true&locale=pt-br&hide_border=true&count_private=false&title_color=808080&icon_color=BF40BF&text_color=808080&bg_color=FFFFFF00" alt="Thiago Alves github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thi4guinho&layout=compact&hide_border=true&locale=pt-br&count_private=false&title_color=808080&text_color=808080&bg_color=FFFFFF00" />
 </div>
 
 <div align="center">  
