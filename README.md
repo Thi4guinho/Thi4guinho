@@ -13,7 +13,7 @@
 </div> 
 
 ### Principais habilidades:
-![HTML](https://img.shields.io/badge/-HTML-101010?style=for-the-badge&logo=html5&labelColor=101010)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-FFFFFF00?style=for-the-badge&logo=html5&labelColor=FFFFFF00)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-101010?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=101010)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-101010?style=for-the-badge&logo=javascript&labelColor=101010&textColor=0D1117)&nbsp;
  
